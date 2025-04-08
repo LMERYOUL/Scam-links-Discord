@@ -11,6 +11,7 @@
 0xmons.net
 steamcard.cfd
 steamegifts.cfd
+steamecommunity.cfd
 1-88y.pages.dev
 1-ravblox.tech
 1-robiox.website
