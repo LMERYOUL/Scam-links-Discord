@@ -12,6 +12,7 @@
 steamcard.cfd
 steamegifts.cfd
 steamecommunity.cfd
+steamgiftlink.com
 1-88y.pages.dev
 1-ravblox.tech
 1-robiox.website
