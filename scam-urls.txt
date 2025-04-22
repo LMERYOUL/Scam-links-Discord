@@ -11,6 +11,7 @@
 0xmons.net
 steamcard.cfd
 steamegifts.cfd
+steamvcommunity.cfd
 steamecommunity.cfd
 steamgiftlink.com
 1-88y.pages.dev
